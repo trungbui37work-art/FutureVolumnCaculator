@@ -1,0 +1,5 @@
+{
+  "name": "Futures Position Size Calculator",
+  "description": "An application for futures traders to calculate their position size based on their capital and desired stop-loss percentage. Users can input their total capital, acceptable risk percentage, stop-loss price, and entry price to determine the appropriate trade volume.",
+  "requestFramePermissions": []
+}
